@@ -14,5 +14,7 @@ public class KonversiNumber {
         int iniInt2 = 1000;
         byte iniByte2 = (byte) iniInt2;
 
+        System.out.println(iniShort);
+        System.out.println(iniByte2);
     }
 }
